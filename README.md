@@ -10,8 +10,8 @@ I'm just a student who lives in Hungary.
 </details>
 
 ## Experience
-Skript
-learning currently JAVA
+* Skript
+* learning currently JAVA
 
 ## Contact
 - **Discord**: bandibandus10.sys (ID: 1310971943201275935)

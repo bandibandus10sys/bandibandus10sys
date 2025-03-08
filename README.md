@@ -17,5 +17,5 @@ I'm just a student who lives in Hungary.
 - **Discord**: bandibandus10.sys (ID: 1310971943201275935)
 
 ## Stats
-![stat](https://github-readme-stats.vercel.app/api/top-langs?username=bandibandus10sys&show_icons=true&theme=tokyonight&layout=compact)
 ![stat2](https://github-profile-trophy.vercel.app/?username=bandibandus10sys&theme=tokyonight)
+![stat](https://github-readme-stats.vercel.app/api/top-langs?username=bandibandus10sys&show_icons=true&theme=tokyonight&layout=compact)

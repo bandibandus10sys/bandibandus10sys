@@ -7,6 +7,8 @@ I'm just a student who lives in Hungary.
  
  * **AzureNetwork (2025)**
    * Server Development
+ * **ArcaneNetwork (2024-2025)**
+   * Server Development
 </details>
 
 ## Experience

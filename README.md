@@ -7,7 +7,9 @@ I'm just a student who lives in Hungary.
 
  * **Axolotlity (2025)**
    * Server Development
- * **AzureNetwork (2025)**
+ * **HealMC (2025)**
+   * Server Development
+ * **AzureNetwork (2025-?)**
    * Server Development
  * **ArcaneNetwork (2024-2025)**
    * Server Development
